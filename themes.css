@@ -1,0 +1,22 @@
+body {
+	background-color: LightPink;
+}
+
+h1, h2 {
+	font-family: 'Bree Serif', Arial, serif;
+	font-weight: 400;
+	font-size: 22px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+img {
+	height: 42px;
+	width: 42px;
+}
+
+.aboutMe {
+	font-size: 12px;
+}
