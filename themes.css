@@ -14,7 +14,14 @@ h2 {
 	font-size: 18px;
 }
 
-#aboutMe {
+h3 {
+  font-size: 32px;
+  font-family: 'Amatic SC', cursive;
+  line-height: 42px;
+}
+
+#about-me, 
+#portfolio {
 	background-color: #999999;
 	margin: 20px 0 20px 0;
 	padding: 50px;
@@ -24,6 +31,10 @@ h2 {
 	line-height: 1.5em;
 }
 
+#portfolio a:hover {
+  background-color: #FF3D9E;
+}
+
 .connect {
   text-align: center;
   margin: auto;
@@ -31,8 +42,14 @@ h2 {
   width: 40%;
 }
 
+.images {
+
+}
+
 .hexies {
-  margin: 20px;
+  width: 80%;
+  margin-left: 185px;
+  margin-top: 20px;
 }
 
 *{
